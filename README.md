@@ -1,5 +1,5 @@
 # Wine-Quality-Prediction-Project-Classification-Models
-This Python notebook is a Machine Learning Project that predicts red wine quaity with SVC, Decision Tree, and Random Forest. Include:
+This Python notebook is a Machine Learning Project that predicts red wine quality with SVC, Decision Tree, and Random Forest. Include:
 - Dataset
 - Data Wrangling
 - Data Exploration
